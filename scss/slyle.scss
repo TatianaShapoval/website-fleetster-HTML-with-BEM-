@@ -1,0 +1,21 @@
+
+$default-color: #ff2101;
+$assent: #dce123;
+
+.wrapper{
+    text-align: center;
+}
+
+.about{
+ color:$assent;
+}
+
+.menu{
+    display: flex;
+    ul{
+        letter-spacing: normal;
+    }
+    a{
+        text-decoration: none;
+    }
+}
